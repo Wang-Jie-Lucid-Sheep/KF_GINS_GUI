@@ -26,9 +26,9 @@ The authors would like to acknowledge the team of Prof\. Xiaoji Niu of the Integ
 
 ## 导入四个文件的位置
 
-![github](.\\example\\input_config.png "input_config")
+![github](https://github.com/Wang-Jie-Lucid-Sheep/KF_GINS_GUI/blob/main/example/input_config.png)
 
-![github](.\\example\\Input_Path.png "Input_Path.png")
+![github](https://github.com/Wang-Jie-Lucid-Sheep/KF_GINS_GUI/blob/main/example/Input_Path.png)
 
 ## 点击解算按钮即可进行解算
 
