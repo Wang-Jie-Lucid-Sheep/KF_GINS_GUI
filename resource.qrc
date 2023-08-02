@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Picture/logo.png</file>
+        <file>Picture/ICON.ico</file>
+        <file>Picture/Star.png</file>
+        <file>Picture/Config.png</file>
+        <file>Picture/Plot.png</file>
+        <file>Picture/Save.png</file>
+        <file>Picture/Select.png</file>
+        <file>Picture/Exit.png</file>
+        <file>Picture/Open.png</file>
+        <file>Picture/ICON.jpg</file>
+        <file>Picture/Plot_Error.png</file>
+        <file>Picture/Result_Plot.png</file>
+    </qresource>
+</RCC>
